@@ -8,6 +8,7 @@ Projeto Eclipse -- Java
 Código em: src/main.java
 
 Problema:
+
 Uma maquina de vendas retorna uma coca cola por $0.45
 
 Ela aceita apenas moedas de $0.25 (quarter) ou $0.10 (dime)
